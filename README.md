@@ -7,7 +7,7 @@
 
 # 🪴 Vectras VM Github
 
-### 🌱 Community Version for Android
+### 🌱 Community Version for Android +6.1
 
 [![Latest release](https://img.shields.io/github/v/release/xoureldeen/Vectras-VM-Android)](https://github.com/xoureldeen/Vectras-VM-Android/releases)
 [![Total downloads](https://img.shields.io/github/downloads/xoureldeen/Vectras-VM-Android/total?cacheSeconds=3600)](https://github.com/xoureldeen/Vectras-VM-Android/releases)
